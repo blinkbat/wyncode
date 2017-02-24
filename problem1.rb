@@ -1,3 +1,5 @@
-puts 'hello world'
-puts 'again'
-puts 'hello'
+"a joke:
+
+why didn't the bachelor use git?
+
+they were afraid to commit."
